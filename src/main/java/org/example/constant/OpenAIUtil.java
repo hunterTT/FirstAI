@@ -7,9 +7,9 @@ import dev.langchain4j.model.openai.OpenAiEmbeddingModel;
 import dev.langchain4j.store.embedding.redis.RedisEmbeddingStore;
 
 public class OpenAIUtil {
-//    public static final String key = "sk-Qxt1e040220a75c18e3a2193f6b5cb0d8fb718b7ff3uxxI1";
-//
-//    public static final String url = "https://api.gptsapi.net/v1";
+    public static final String OPENAI_KEY2 = "sk-Qxt1e040220a75c18e3a2193f6b5cb0d8fb718b7ff3uxxI1";
+
+    public static final String BASE_URI_OPENAI = "https://api.gptsapi.net/v1";
 
 
 
